@@ -1,7 +1,7 @@
 # SpamDetector
 
-# Erandi Ranthilake
-# ID: 1001614967
+## Erandi Ranthilake
+## ID: 1001614967
 
 ### Run the main project to compare the effects of text optimization techniques.
 
