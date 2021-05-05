@@ -3,7 +3,7 @@
 # Erandi Ranthilake
 # ID: 1001614967
 
-# Run the main project to compare the effects of text optimization techniques.
+### Run the main project to compare the effects of text optimization techniques.
 
 Navigate to the root folder of the project.<br>
 run the following command<br>
@@ -11,7 +11,7 @@ run the following command<br>
 
 Calculation will take time to run.<br><br>
 
-# Run the GUI
+### Run the GUI
 
 Navigate to the root folder 'spamDetector'<br>
 run the following command<br>
